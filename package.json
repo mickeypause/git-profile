@@ -2,9 +2,14 @@
   "name": "git-profile",
   "displayName": "Git Profile",
   "description": "Extension that helps you easily switch between different git users",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.96.0"
+  },
+  "publisher": "serhiifozykosh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serhiifozykosh/git-profile"
   },
   "categories": [
     "Other"
